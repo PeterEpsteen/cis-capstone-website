@@ -1,0 +1,28 @@
+.navbar {
+	margin-bottom:  !important;
+	padding-bottom: 0px !important;
+}
+
+.jumbo-text {
+	text-align: center;
+}
+
+#custom-jumbo>.container {
+	padding-top: 48px;
+	
+}
+
+#map {
+	height:300px;
+	width: 100%;
+	margin:auto;
+}
+.about-icons {
+	width:70%;
+	margin:auto;
+	margin-bottom: 20px;
+}
+
+.subtitle {
+	margin-bottom: 40px;
+}
