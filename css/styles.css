@@ -18,9 +18,9 @@
 	margin:auto;
 }
 .about-icons {
-	width:70%;
+	width:50%;
 	margin:auto;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 .subtitle {
@@ -31,5 +31,9 @@
 	border-radius: 50%;
 	width:70%;
 	margin:auto;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+}
+
+img + h4 {
+	text-align: center;
 }
