@@ -26,3 +26,10 @@
 .subtitle {
 	margin-bottom: 40px;
 }
+
+.team-photos {
+	border-radius: 50%;
+	width:70%;
+	margin:auto;
+	margin-bottom: 20px;
+}
