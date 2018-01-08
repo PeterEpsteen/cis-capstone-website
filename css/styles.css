@@ -1,5 +1,5 @@
 .navbar {
-	margin-bottom:  !important;
+	margin-bottom: 0px  !important;
 	padding-bottom: 0px !important;
 }
 
@@ -29,7 +29,7 @@
 
 .team-photos {
 	border-radius: 50%;
-	width:30%;
+	width:40%;
 	margin:auto;
 	margin-bottom: 30px;
 }
